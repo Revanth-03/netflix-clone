@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+  text-transform: capitalize;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,21 @@
+.Navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding-left: 20px;
+  height: 50px;
+  z-index: 1000;
+  background: transparent;
+  transition: all 0.5s ease-in-out;
+}
+
+.Navbar_bg {
+  background: black;
+}
+
+img {
+  position: relative;
+  top: -10px;
+  width: 70px;
+  z-index: 1000;
+}
