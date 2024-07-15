@@ -54,6 +54,8 @@ After installing the dependencies, start the development server:
 
 Open your browser and navigate to http://localhost:3000 to see the project in action.
 
+You can also view the live version of the project [here](https://netflix-clone-55c22.web.app/).
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
