@@ -3,6 +3,11 @@
 This project is a Netflix clone built using React.js. It leverages The Movie Database (TMDb) API to fetch movie data, including Netflix originals, trending movies, top-rated movies, and movies by genre. Users can browse through different categories, view movie details, and watch trailers.
 You can also view the live version of the project [here](https://netflix-clone-55c22.web.app/).
 
+**$${\color{red}Note:}$$**  If you encounter a "Dangerous site" warning when visiting the live link, please be assured that this project is completely safe. No personal information will be taken from your browser. To proceed, click on **"Details"** and then on **"Visit this unsafe site"** to view the project.
+
+
+
+
 ## Table of Contents
 
 - [Features](#features)
