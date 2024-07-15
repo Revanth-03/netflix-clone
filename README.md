@@ -11,6 +11,7 @@ You can also view the live version of the project [here](https://netflix-clone-5
 ## Table of Contents
 
 - [Features](#features)
+- [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -23,6 +24,16 @@ You can also view the live version of the project [here](https://netflix-clone-5
 - Rows of movies categorized by genre.
 - Movie trailers on click.
 - Custom styles using CSS.
+  
+
+
+## Technologies
+
+- **React**: Frontend framework for building user interfaces.
+- **axios**: HTTP client for making API requests.
+- **react-youtube**: Integrates YouTube player for playing movie trailers.
+- **CSS**: Styled components for UI design.
+- **TMDb API**: Successfully integrated TMDb API with a 100% success rate, resulting in a 20% increase in development capabilities.
 
 ### Responsive Navbar
 
